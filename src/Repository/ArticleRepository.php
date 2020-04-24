@@ -50,6 +50,6 @@ class ArticleRepository extends ServiceEntityRepository
 
     public function getArticleBySlug(string $slug)
     {
-        
+
     }
 }
