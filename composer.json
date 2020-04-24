@@ -1,0 +1,18 @@
+{
+    "name": "acme/test-bundle-sf4",
+    "description": "Test Bundle",
+    "type": "symfony-bundle",
+    "require": {},
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Frédéric Delaval-Dupuis",
+            "email": "frederic.delaval.dupuis@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Acme\\TestBundle\\": "src/"
+        }
+    }
+}
