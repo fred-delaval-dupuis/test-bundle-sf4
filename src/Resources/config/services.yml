@@ -5,3 +5,5 @@ services:
   Acme\TestBundle\Service\ArticleRandomizer:
     alias: acme_testbundle_service_articlerandomizer
 
+  Acme\TestBundle\Repository\ArticleRepository:
+    tags: ['doctrine.repository_service']
