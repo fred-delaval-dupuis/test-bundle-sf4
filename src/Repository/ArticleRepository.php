@@ -2,7 +2,7 @@
 
 namespace Acme\TestBundle\Repository;
 
-use App\Entity\Article;
+use Acme\TestBundle\Entity\Article;
 use Doctrine\Bundle\DoctrineBundle\Repository\ServiceEntityRepository;
 use Doctrine\Persistence\ManagerRegistry;
 
