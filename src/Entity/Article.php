@@ -5,7 +5,7 @@ namespace Acme\TestBundle\Entity;
 use Doctrine\ORM\Mapping as ORM;
 
 /**
- * @ORM\Entity(repositoryClass="App\Repository\ArticleRepository")
+ * @ORM\Entity(repositoryClass="Acme\TestBundle\Repository\ArticleRepository")
  */
 class Article
 {
