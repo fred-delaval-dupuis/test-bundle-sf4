@@ -7,6 +7,6 @@ services:
 
   Acme\TestBundle\Repository\:
     resource: '../../Repository/*Repository.php'
-      autoconfigure: true
-      autowire: true
-      tags: ['doctrine.repository_service']
+    autoconfigure: true
+    autowire: true
+    tags: ['doctrine.repository_service']
