@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Acme\TestBundle;
+namespace Acme\Bundle\TestBundle;
 
 
 use Symfony\Component\HttpKernel\Bundle\Bundle;

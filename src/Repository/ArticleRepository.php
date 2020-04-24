@@ -1,8 +1,8 @@
 <?php
 
-namespace Acme\TestBundle\Repository;
+namespace Acme\Bundle\TestBundle\Repository;
 
-use Acme\TestBundle\Entity\Article;
+use Acme\Bundle\TestBundle\Entity\Article;
 use Doctrine\Bundle\DoctrineBundle\Repository\ServiceEntityRepository;
 use Doctrine\Persistence\ManagerRegistry;
 

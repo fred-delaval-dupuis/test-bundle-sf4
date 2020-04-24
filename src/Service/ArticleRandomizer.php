@@ -1,10 +1,10 @@
 <?php
 
 
-namespace Acme\TestBundle\Service;
+namespace Acme\Bundle\TestBundle\Service;
 
 
-use Acme\TestBundle\Entity\Article;
+use Acme\Bundle\TestBundle\Entity\Article;
 
 class ArticleRandomizer
 {

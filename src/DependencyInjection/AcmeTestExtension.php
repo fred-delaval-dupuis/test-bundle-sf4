@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Acme\TestBundle\DependencyInjection;
+namespace Acme\Bundle\TestBundle\DependencyInjection;
 
 
 use Symfony\Component\Config\FileLocator;

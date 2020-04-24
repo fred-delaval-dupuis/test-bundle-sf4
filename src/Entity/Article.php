@@ -1,11 +1,11 @@
 <?php
 
-namespace Acme\TestBundle\Entity;
+namespace Acme\Bundle\TestBundle\Entity;
 
 use Doctrine\ORM\Mapping as ORM;
 
 /**
- * @ORM\Entity(repositoryClass="Acme\TestBundle\Repository\ArticleRepository")
+ * @ORM\Entity(repositoryClass="Acme\Bundle\TestBundle\Repository\ArticleRepository")
  */
 class Article
 {
